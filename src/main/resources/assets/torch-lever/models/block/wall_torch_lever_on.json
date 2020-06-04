@@ -1,0 +1,6 @@
+{
+    "parent": "torch-lever:block/template_wall_torch_lever_on",
+    "textures": {
+        "torch": "block/torch"
+    }
+}

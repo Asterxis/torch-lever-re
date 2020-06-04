@@ -1,0 +1,6 @@
+{
+    "parent": "torch-lever:block/template_ceiling_torch_lever_off",
+    "textures": {
+        "torch": "block/torch"
+    }
+}
